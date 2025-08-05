@@ -1,0 +1,28 @@
+
+.hero-image {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  min-width: 320px;
+  padding: 2rem 0 2rem 2rem;
+}
+
+
+.hero-image img {
+  width: 320px;
+  height: 320px;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 8px 32px rgba(37,99,235,0.10);
+  background: #f6faff;
+  border: 4px solid #e0f2f1;
+  transition: box-shadow 0.2s, transform 0.2s;
+  display: block;
+}
+
+.hero-image img:hover {
+  box-shadow: 0 12px 40px rgba(37,99,235,0.18);
+  transform: scale(1.03);
+}
