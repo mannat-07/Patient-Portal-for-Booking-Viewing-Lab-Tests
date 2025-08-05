@@ -299,6 +299,7 @@ h1.headline {
 
 .footer-link-btn:hover {
     color: var(--primary-500);
+    background: none;
 }
 
 .footer-contact p {
