@@ -77,7 +77,7 @@ const Register = () => {
           }, 2000);
         } else {
           setTimeout(() => {
-            navigate("/login");
+            navigate("/lab-tests");
           }, 2000);
         }
       }
