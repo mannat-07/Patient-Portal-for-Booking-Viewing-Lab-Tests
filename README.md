@@ -84,6 +84,6 @@ This project is a full-stack web application for patients to register, log in, b
 - For custom icon colors in date/time pickers, see the CSS in `LabTestCatalog.css`.  
 
 ---
-**Developed by:** mannat-07
+**Developed by:** Mannat Garg  
 **Deployed Frontend Link:** [Click here](https://mannat-skvap-assignment.netlify.app/)  
 **Deployed Backend Link:** [Click here](https://patient-portal-for-booking-viewing-lab.onrender.com)
