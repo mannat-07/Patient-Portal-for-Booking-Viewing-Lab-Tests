@@ -85,3 +85,5 @@ This project is a full-stack web application for patients to register, log in, b
 
 ---
 **Developed by:** mannat-07
+**Deployed Frontend Link:** [Click here](https://mannat-skvap-assignment.netlify.app/)  
+**Deployed Backend Link:** [Click here](https://patient-portal-for-booking-viewing-lab.onrender.com)
