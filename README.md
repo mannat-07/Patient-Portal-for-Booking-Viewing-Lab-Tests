@@ -76,7 +76,12 @@ This project is a full-stack web application for patients to register, log in, b
 - `GET /api/bookings` — Get all bookings for the logged-in user  
 
 ### Reports  
-- `GET /api/reports/:bookingId` — Get report for a specific booking (if available)  
+- `GET /api/reports/:bookingId` — Get report for a specific booking (only for the tests with status as completed)  
+Login credentials for downloading the report because this is a patient facing portal the report status will be managed by admin:
+
+**Email:** ```user3@gmail.com```  
+**Password:** ```securepassword123```
+
 
 ## Notes  
 - All protected routes require the JWT token (sent via cookies or Authorization header).  
