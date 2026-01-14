@@ -90,5 +90,5 @@ Login credentials for downloading the report because this is a patient facing po
 
 ---
 **Developed by:** Mannat Garg  
-**Deployed Frontend Link:** [Click here](https://mannat-skvap-assignment.netlify.app/)  
+**Deployed Frontend Link:** [Click here](https://mannat-medlab.netlify.app/)  
 **Deployed Backend Link:** [Click here](https://patient-portal-for-booking-viewing-lab.onrender.com)
